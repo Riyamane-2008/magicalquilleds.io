@@ -1,2 +1,2 @@
-# magicalquilleds.io
+# magicalquillers.io
 Paper quilling website
